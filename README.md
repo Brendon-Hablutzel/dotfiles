@@ -1,2 +1,4 @@
 # dotfiles
-My personal configuration files
+
+To add:
+- zsh themes, plugins, setup, etc.
